@@ -9,7 +9,8 @@
 .. toctree::
    :maxdepth: 2
 
-   Sphinx-Github-Readthedocs.rst
+   introduction.rst
+   summary.rst
 
 
 
