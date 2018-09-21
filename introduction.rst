@@ -15,7 +15,9 @@ Sphinx，reSturcturedtext，GitHub，Readthedocs这几个名词一下子涌过�
 
 以下是一些优质文档：
 
-对整个流程的了解：https://www.cnblogs.com/youxin/p/3594161.html
+对整个流程的了解：
+
+https://www.cnblogs.com/youxin/p/3594161.html
 
 rst语法入门：
 
