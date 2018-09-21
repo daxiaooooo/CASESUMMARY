@@ -7,7 +7,7 @@ Sphinx，reSturcturedtext，GitHub，Readthedocs这几个名词一下子涌过�
 
     - 使用rst写出文档，这一步类似我们在word中写作，敲入文字后还是要手动设置样式，包括各级标题、设置缩进、粗体等，而在用rst（一种轻量级标记语言）写作时，我们也需要设置标题、表格、列表、图片等，例如我们可以通过在文字下面加“====”来表示这是一个标题。但别害怕，rst有自己的语法非常简单，可以 **边参考教程** 边写文档。我们可以安装visual studio code这个工具来辅助书写rst文档，其提供语法高亮、缩进的功能。
 
-    - 使用sphinx发布文档，sphinx的功能在于能够把rst文档发布成我们需要的输出格式，例如html, epub, htmlhel等等格式。而且sphinx的安装
+    - 使用sphinx发布文档，sphinx的功能在于能够把rst文档发布成我们需要的输出格式，例如html, epub, htmlhel等等格式。而且sphinx的安装、新建项目都能在网上教程的指引下一步一步完成。
 
     - 使用GitHub托管代码，我们将rst文档托管至GitHub上，每次对文档进行更新时更方便，也会提供代码版本控制
 
