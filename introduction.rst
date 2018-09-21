@@ -15,19 +15,21 @@ Sphinx，reSturcturedtext，GitHub，Readthedocs这几个名词一下子涌过�
 
 以下是一些优质文档：
 
-        对整个流程的了解：https://www.cnblogs.com/youxin/p/3594161.html
+对整个流程的了解：https://www.cnblogs.com/youxin/p/3594161.html
 
-        rst语法入门：
+rst语法入门：
 
-        https://www.cnblogs.com/seayxu/p/5603876.html 
+https://www.cnblogs.com/seayxu/p/5603876.html 
         
-        https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
+https://zh-sphinx-doc.readthedocs.io/en/latest/rest.html
 
-        GitHub使用：
+GitHub使用：
 
-        https://www.cnblogs.com/r360/p/4931432.html 
+https://www.cnblogs.com/r360/p/4931432.html 
         
-        https://blog.csdn.net/javaandroid730/article/details/53522872
+https://blog.csdn.net/javaandroid730/article/details/53522872
 
-        Readthedocs使用：https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
+Readthedocs使用：
+
+https://www.xncoding.com/2017/01/22/fullstack/readthedoc.html
 
